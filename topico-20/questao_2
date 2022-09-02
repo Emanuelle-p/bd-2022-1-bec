@@ -1,2 +1,0 @@
-2. [Opcional] Você pode apresentar uma solução alternativa (em adição à resposta para a Questão 1)?
-Pode-se tirar o atributo nome_editora do tipo de entidade LIVRO, para que o banco de dados não contenha dados repetitivos.
