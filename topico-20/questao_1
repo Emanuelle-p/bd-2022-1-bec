@@ -1,0 +1,2 @@
+1. Desenhe um DER para o BD Biblioteca, o qual pode ser mapeado para obter o esquema lógico do BD Biblioteca. Trata-se de Engenharia reversa?
+Sim, pois a partir do esquema lógico pode-se obter o DER ao entender a função de cada item no esquema, e que ao se fazer o esquema lógico deste DER pode-se obter o mesmo esquema lógico anterior.
